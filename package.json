@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/cumque-nobis-similique-unde",
-  "version": "4.4.87",
+  "version": "4.4.88",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -193,5 +193,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/cumque-nobis-similique-unde/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
